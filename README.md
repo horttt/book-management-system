@@ -1,12 +1,12 @@
-#In this Prpject We use JavaFx 22 to build desktop application
+# In this Prpject We use JavaFx 22 to build desktop application
 
-#IDE
+# IDE
 - NetBeans
 - SceneBuilder
 
-#How to compile the code
+# How to compile the code
 - Add all jar file in the service folder
 - Click run on file BookShopManagementSystem.java
 
-#Login as Admin
+# Login as Admin
 - Set your own username and password in table admin
