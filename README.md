@@ -1,4 +1,4 @@
-# In this Prpject We use JavaFx to build desktop application
+# In this Project We use JavaFx to Build Desktop Application
 - JavaFx 22
 - fontawesome
 - jfreechart-1.0.19
