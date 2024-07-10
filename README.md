@@ -10,3 +10,6 @@
 
 # Login as Admin
 - Set your own username and password in table admin
+
+# We use MySQL for Database
+- Xampp
