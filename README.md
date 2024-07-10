@@ -1,4 +1,8 @@
-# In this Prpject We use JavaFx 22 to build desktop application
+# In this Prpject We use JavaFx to build desktop application
+- JavaFx 22
+- fontawesome
+- jfreechart-1.0.19
+- mysql-connector-j-9.0.0
 
 # IDE
 - NetBeans
